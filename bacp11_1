@@ -1,0 +1,110 @@
+# P
+11
+# C
+qui010 3 25
+mat021 5 37
+fis100 3 35
+iwg101 2 34
+dew100 1 39
+iwi131 3 32
+mat022 5 36
+fis110 5 40
+hxw001 2 38
+dew101 1 35
+mat023 4 32
+fis120 4 35
+iln010 2 24
+qui025 5 23
+ilm152 3 25
+mat024 4 37
+fis130 4 34
+iln011 3 28
+eli271 3 38
+hxw002 2 37
+hcw100 2 33
+icn262 3 38
+iln012 3 31
+iln255 4 33
+iwm210 4 27
+iln210 3 20
+dew0 1 35
+iwn270 3 22
+ics003 3 40
+iln221 4 30
+iln211 3 34
+iwm185 3 38
+hcw102 2 36
+fis140 4 33
+mat042 4 22
+iln222 4 31
+icn323 3 26
+iln230 3 31
+icn312 4 39
+icn212 3 38
+iln250 4 25
+iln292 3 30
+icn342 3 37
+icn320 3 39
+icn321 3 37
+icn346 3 21
+icn011 3 38
+icn343 4 35
+hxw003 2 34
+icn338 3 32
+icn012 3 33
+icn332 3 35
+hxw004 2 35
+icn344 4 34
+icn398 2 33
+icn337 3 35
+icn013 3 40
+icn014 3 28
+inc399 8 37
+# R #
+mat022 mat021
+fis110 mat021
+fis110 fis100
+mat023 mat022
+fis120 mat022
+fis120 fis110
+qui025 qui010
+mat024 mat023
+fis130 mat022
+fis130 fis110
+iln011 iln010
+eli271 mat023
+eli271 fis120
+iln012 iln010
+iln255 fis120
+iln255 fis130
+iwm210 fis130
+iln210 mat023
+iwn270 icn262
+ics003 icn262
+iln221 iwm210
+iln211 iln210
+iwm185 iwi131
+fis140 fis130
+fis140 fis120
+mat042 mat023
+iln222 iln221
+icn323 icn262
+icn312 mat042
+icn212 iln210
+iln250 iln210
+iln250 mat042
+iln292 iln210
+iln292 iwi131
+icn342 iln230
+icn320 iwn270
+icn321 iln210
+icn346 iln250
+icn343 iln250
+icn338 iln210
+icn338 iln230
+icn012 icn011
+icn332 icn323
+icn332 icn320
+icn332 icn321
+icn344 icn343
+icn337 icn338

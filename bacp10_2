@@ -1,0 +1,104 @@
+# P
+10
+# C
+mat011 5 28
+fis100 3 32
+iwg101 2 39
+qui010 3 32
+dew100 1 33
+mat012 5 20
+fis109 5 31
+iwi131 3 30
+hrw101 2 22
+dew101 1 34
+mat013 4 31
+fis119 3 34
+idp111 3 40
+idp102 3 39
+hrw102 2 34
+hiw310 2 39
+mat014 4 40
+fis129 3 23
+idp112 3 39
+idp200 3 26
+mec119 3 26
+hiw311 2 32
+ilm152 3 23
+met224 3 38
+idp113 5 36
+idp205 3 37
+iwn170 3 39
+dew0 1 27
+idp103 3 36
+mec273 4 23
+idp114 5 34
+idp210 3 39
+iwn270 3 29
+hrw103 2 33
+iwn261 3 33
+mec274 4 24
+idp115 5 21
+idp215 3 35
+icn336 3 24
+icn321 3 34
+mec275 3 23
+idp116 5 30
+idp104 3 26
+icn320 3 23
+icn339 3 30
+met324 3 29
+idp117 5 35
+idp301 3 36
+icn323 3 32
+idp302 3 38
+idp118 8 39
+# R #
+mat012 mat011
+fis109 mat011
+fis109 fis100
+mat013 mat012
+fis119 mat012
+fis119 fis109
+idp111 fis100
+idp111 iwg101
+idp102 fis109
+mat014 mat013
+fis129 fis119
+idp112 idp111
+mec119 fis119
+ilm152 fis109
+met224 qui010
+met224 fis119
+idp113 idp112
+idp113 idp102
+idp205 idp200
+iwn170 mat013
+idp103 idp112
+mec273 met224
+idp114 idp113
+idp114 met224
+idp114 idp205
+idp210 idp205
+iwn270 iwn170
+mec274 mec273
+idp115 ilm152
+idp115 idp114
+idp115 idp103
+idp215 ilm152
+idp215 idp205
+idp215 mec119
+icn321 iwn170
+mec275 mec274
+idp116 idp115
+idp116 mec274
+idp104 idp115
+icn339 icn320
+icn339 icn321
+met324 met224
+met324 idp115
+idp117 idp104
+idp117 idp215
+idp117 idp116
+icn323 iwn261
+idp302 idp116
+idp118 idp301

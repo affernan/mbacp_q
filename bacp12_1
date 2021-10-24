@@ -1,0 +1,137 @@
+# P
+12
+# C
+mat021 5 27
+fis100 3 22
+qui010 3 31
+iwg101 2 35
+dew100 1 32
+mat022 5 29
+fis110 5 33
+iwi131 3 36
+dew101 1 32
+hrw1 2 34
+hcw100 2 36
+mat023 4 34
+fis120 4 37
+iqa101 2 21
+qui026 4 35
+iqa321 1 37
+hcw101 2 37
+iqa110 4 24
+fis130 4 35
+iqa126 4 34
+qui029 4 39
+hcw102 2 35
+iqa221 4 33
+iqa102 4 20
+iqa211 4 38
+mec144 3 32
+dew0 1 25
+hcw200 2 31
+iqa222 4 34
+iqa214 3 39
+imq212 5 22
+imq340 3 36
+iqa322 1 28
+hcw201 2 22
+iqa224 4 36
+iqa230 4 28
+iqa270 3 22
+imq350 3 31
+hcw207 2 34
+hrw2 2 33
+imq320 4 28
+iqa350 4 34
+iqa261 4 34
+iqa360 3 32
+iqa323 1 26
+hrw3 2 31
+imq310 4 40
+iqa361 3 25
+iwn170 3 40
+iqa343 2 32
+qui320 4 34
+imq217 3 34
+imq311 4 29
+imq300 3 24
+imq200 3 35
+imq351 4 32
+iqa331 2 35
+iqa332 2 36
+imq382 4 36
+imq381 4 39
+iqa342 3 34
+iqa344 2 25
+iqa383 3 20
+iqa333 2 38
+iqa393 6 36
+iqa384 3 29
+iqa334 2 36
+# R #
+mat022 mat021
+fis110 mat021
+fis110 fis100
+dew101 dew100
+mat023 mat022
+fis120 mat022
+fis120 fis110
+iqa101 qui010
+qui026 qui010
+iqa321 iwg101
+fis130 mat022
+fis130 fis110
+iqa126 mat021
+iqa126 qui026
+qui029 qui026
+iqa221 fis110
+iqa102 iqa101
+iqa211 iqa126
+dew0 dew101
+iqa222 iqa221
+iqa222 iqa211
+iqa214 iqa126
+imq212 iqa211
+imq340 iqa321
+iqa322 iqa321
+iqa322 iqa101
+iqa224 iqa222
+iqa224 imq212
+iqa230 iqa126
+iqa230 mat023
+imq350 imq340
+hcw207 hcw201
+imq320 hcw207
+imq320 iqa230
+iqa350 iqa224
+iqa261 iqa224
+iqa360 iqa222
+iqa360 hcw207
+iqa323 iqa322
+imq310 hcw207
+imq310 iqa230
+iqa361 hcw207
+iqa361 iqa224
+iqa361 imq320
+iqa343 imq350
+qui320 qui029
+imq311 hcw207
+imq311 iqa230
+imq311 iqa261
+imq300 iqa230
+imq300 hcw207
+imq200 iwn170
+imq351 imq217
+imq382 imq340
+imq382 imq310
+imq382 imq311
+imq382 imq320
+imq381 imq310
+imq381 imq311
+imq381 imq320
+imq381 hcw207
+iqa342 imq311
+iqa344 imq311
+iqa383 iqa323
+iqa393 imq381
+iqa384 iqa383

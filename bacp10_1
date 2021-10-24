@@ -1,0 +1,109 @@
+# P
+10
+# C
+iwi131 3 27
+mate10 4 38
+fis100 3 38
+iwg101 2 21
+dew100 1 37
+qui010 3 37
+mate11 3 22
+mate20 3 36
+ics001 3 33
+hcw319 2 27
+hrw1 2 23
+dew101 1 40
+mate25 4 34
+ics002 3 31
+dew0 1 25
+hrw2 2 37
+hcw321 2 28
+ics003 3 29
+mate26 3 20
+ics004 3 33
+hrw3 2 27
+hcw322 2 31
+iln252 4 35
+ics005 3 40
+ics010 4 24
+ics009 3 35
+hcw323 2 24
+ics008 3 31
+ics007 3 34
+ics006 3 30
+mat032 4 35
+ics013 4 33
+ics014 3 38
+hcw324 2 37
+ics012 3 39
+ics011 3 35
+ics015 3 21
+ics019 3 26
+ics018 3 38
+ics020 4 28
+hcw325 2 27
+ics017 3 31
+ics016 3 20
+ics024 3 21
+ics801 3 30
+ics022 3 33
+hcw326 2 38
+ics021 3 38
+ics023 3 31
+ics026 3 37
+ics030 3 39
+ics027 3 33
+ics028 3 35
+ics025 4 20
+ics029 2 29
+ics802 3 31
+ics803 3 33
+ics033 3 21
+ics031 3 35
+ics032 8 21
+# R #
+mate11 mate10
+mate20 mate10
+ics001 iwg101
+mate25 mate11
+mate25 mate20
+ics002 ics001
+dew0 dew101
+hcw321 hcw319
+mate26 mate25
+ics004 ics002
+hcw322 hcw321
+iln252 qui010
+iln252 fis100
+ics010 mate26
+ics009 ics002
+hcw323 hcw322
+ics008 ics003
+ics007 ics005
+ics006 ics005
+ics013 mat032
+ics014 ics004
+hcw324 hcw323
+ics012 ics007
+ics011 ics005
+ics019 ics005
+ics018 ics014
+ics020 ics010
+hcw325 hcw324
+ics017 ics004
+ics016 iwi131
+ics024 ics019
+ics022 ics014
+ics022 ics017
+ics022 ics015
+hcw326 hcw325
+ics021 ics015
+ics021 ics017
+ics023 ics017
+ics026 ics022
+ics030 ics012
+ics027 ics010
+ics028 ics022
+ics025 ics019
+ics033 ics021
+ics031 ics022

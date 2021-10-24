@@ -1,0 +1,121 @@
+# P
+12
+# C
+mat021 5 35
+fis100 3 34
+qui010 3 29
+iwg101 2 32
+dew100 1 27
+mat022 5 28
+fis110 5 37
+iwi131 3 35
+dew101 1 33
+mat023 4 28
+fis130 4 24
+qui021 3 27
+met101 3 35
+hiw310 2 28
+dew0 1 30
+mat024 4 31
+fis120 4 33
+met110 3 36
+met102 3 35
+qui103 3 26
+met120 3 20
+fis140 4 27
+met136 3 33
+qui022 3 32
+iwm185 3 33
+hiw311 2 26
+met281 3 36
+iwq221 4 30
+met240 3 39
+met226 3 36
+met137 3 39
+iwq214 3 36
+met332 3 20
+icq328 3 35
+met227 3 39
+iwq222 5 32
+met244 4 33
+iwn170 3 21
+met310 3 31
+met237 3 40
+hrw1 2 22
+ilq225 3 25
+eli271 3 29
+ilq327 4 31
+iln250 4 33
+met236 3 30
+met320 3 34
+met11 3 39
+ilq350 3 40
+hrw2 2 30
+iwn270 3 38
+met308 3 35
+met311 3 35
+iwn261 3 25
+met1 3 33
+met12 3 39
+hrw3 2 34
+met370 3 21
+met391 2 25
+icn345 3 21
+met2 3 29
+met392 8 33
+met380 3 35
+# R #
+mat022 mat021
+fis110 mat021
+fis110 fis100
+mat023 mat022
+fis130 mat022
+fis130 fis110
+qui021 qui010
+met101 qui010
+met101 fis100
+mat024 mat023
+fis120 mat022
+fis120 fis110
+met110 qui021
+met102 qui010
+met102 fis100
+met120 fis110
+fis140 fis130
+fis140 fis120
+met136 mat023
+met136 met110
+qui022 qui010
+iwm185 iwi131
+met281 met120
+iwq221 fis110
+met240 fis110
+met226 met120
+met226 met136
+iwq214 met136
+met332 met137
+icq328 iwq221
+met227 met226
+iwq222 iwq221
+met244 met240
+met244 met226
+iwn170 mat023
+met310 met226
+met237 met332
+ilq225 iwq221
+eli271 mat023
+eli271 fis120
+ilq327 iwq214
+ilq327 met136
+ilq327 icq328
+iln250 iwq214
+met236 met137
+met320 met244
+ilq350 iwq222
+iwn270 iwn170
+met308 met236
+met308 met237
+met311 met236
+met370 iwn270
+icn345 iln250
+met392 met391

@@ -1,0 +1,110 @@
+# P
+11
+# C
+iwi131 3 39
+mat021 5 38
+fis100 3 35
+hrw132 2 20
+dew100 1 31
+qui010 3 32
+mat022 5 22
+fis110 5 34
+iwg101 2 39
+hrw133 2 26
+dew101 1 29
+inf134 3 30
+mat023 4 33
+fis130 4 22
+inf152 3 31
+inf260 3 27
+inf1 1 30
+inf253 3 23
+mat024 4 28
+fis120 4 40
+inf155 3 30
+iwn170 3 34
+inf2 1 33
+inf239 3 30
+inf245 3 35
+fis140 4 39
+inf280 3 31
+inf270 3 36
+inf3 1 33
+inf236 3 26
+inf246 3 34
+inf276 3 40
+inf221 3 35
+inf292 3 40
+inf4 1 23
+inf225 3 32
+inf256 3 28
+icn270 3 31
+inf285 3 40
+inf293 3 32
+inf5 1 30
+inf322 3 27
+inf343 3 34
+inf301 3 30
+inf295 3 35
+inf266 3 34
+inf6 1 24
+inf302 3 33
+inf303 3 38
+inf311 3 34
+inf312 3 29
+inf360 3 29
+inf7 1 37
+inf304 3 33
+inf313 3 37
+inf314 3 25
+inf228 6 31
+inf309 1 34
+inf310 12 30
+# R #
+mat022 mat021
+fis110 mat021
+fis110 fis100
+inf134 iwi131
+mat023 mat022
+fis130 mat022
+fis130 fis110
+inf152 iwi131
+inf152 mat021
+inf260 iwg101
+inf253 inf134
+mat024 mat023
+fis120 mat022
+fis120 fis110
+inf155 inf134
+inf155 inf152
+iwn170 mat023
+inf239 inf134
+inf245 inf134
+fis140 fis130
+fis140 fis120
+inf280 iwi131
+inf280 mat023
+inf270 inf260
+inf236 inf239
+inf236 inf253
+inf246 inf245
+inf276 inf270
+inf221 inf152
+inf221 inf253
+inf292 mat023
+inf225 inf236
+inf256 inf246
+icn270 iwn170
+inf285 mat024
+inf285 inf221
+inf293 inf280
+inf293 inf292
+inf322 inf225
+inf343 inf256
+inf295 inf292
+inf295 inf221
+inf266 inf276
+inf360 inf322
+inf360 inf266
+inf228 inf360
+inf310 inf228

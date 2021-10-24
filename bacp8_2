@@ -1,0 +1,71 @@
+# P
+8
+# C
+qui010 3 32
+mat021 5 36
+fis100 3 39
+fis104 2 39
+dew100 1 36
+iwi131 3 28
+mat022 5 28
+fis110 5 39
+hrw101 2 35
+dew101 1 28
+mat023 4 35
+fis120 4 35
+fis130 4 33
+hcw100 2 39
+dew0 1 39
+hrw102 2 34
+mat024 4 34
+fis140 4 28
+fis1 4 20
+hcw101 2 38
+fis210 4 21
+fis200 4 37
+fis211 4 40
+fis245 4 38
+fis230 4 34
+hrw103 2 35
+fis220 4 23
+fis240 4 35
+fis290 4 34
+hcw102 2 37
+mat041 4 33
+fis221 4 21
+fis2 4 21
+fis241 4 34
+fis270 3 36
+fis3 4 31
+fis250 4 21
+fis222 4 24
+# R #
+mat022 mat021
+fis110 mat021
+fis110 fis100
+mat023 mat022
+fis120 mat022
+fis120 fis110
+fis130 mat022
+fis130 fis110
+dew0 dew101
+mat024 mat023
+fis140 fis130
+fis140 fis120
+hcw101 hcw100
+fis210 mat023
+fis200 fis140
+fis211 fis210
+fis211 fis130
+fis245 mat024
+fis230 fis140
+fis220 fis120
+fis220 fis130
+fis220 mat023
+fis240 fis140
+fis240 fis211
+fis290 fis140
+hcw102 hcw101
+fis221 fis220
+fis241 fis240
+fis250 fis240

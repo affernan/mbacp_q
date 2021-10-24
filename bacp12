@@ -1,0 +1,136 @@
+# P
+12
+# C
+dew100 1 21
+fis100 3 35
+hcw310 1 29
+iwg101 2 40
+mat111 4 39
+mat121 4 34
+dew101 1 25
+fis110 5 34
+iwi131 3 28
+mat112 4 25
+mat122 4 28
+dewxx0 1 37
+fis120 4 30
+hcw311 1 33
+hxwxx1 1 29
+ili142 4 32
+mat113 4 34
+mat123 4 38
+fis130 4 35
+ili134 4 37
+ili151 3 35
+iwm185 3 20
+mat124 4 36
+fis140 4 38
+hxwxx2 1 20
+ile260 3 29
+ili260 3 34
+iwn170 3 29
+qui104 3 38
+ili231 3 27
+ili243 4 28
+ili252 4 39
+ili273 3 37
+mat210 4 20
+mat260 4 33
+ild208 3 34
+ili221 4 36
+ili274 3 29
+ili281 3 38
+iwn270 3 34
+mat270 4 39
+hrw150 2 39
+ili238 4 23
+ili242 3 33
+ili275 3 23
+ili355 4 39
+hrw110 2 32
+ici393 4 32
+ili237 4 26
+ili334 4 39
+ili363 3 22
+iwn261 3 35
+hrw100 2 34
+ici382 4 37
+ili331 4 21
+ili362 3 36
+ili381 3 36
+iln230 3 39
+ici313 2 25
+ici315 2 22
+ici332 3 39
+ici344 4 36
+icn336 3 37
+iwi365 3 33
+ici314 2 31
+ici367 2 31
+# R #
+dew101 dew100
+fis110 fis100
+fis110 mat121
+mat112 mat111
+mat122 mat111
+mat122 mat121
+dewxx0 dew101
+fis120 fis110
+fis120 mat122
+hcw311 hcw310
+ili142 iwi131
+mat113 mat112
+mat113 mat122
+mat123 mat112
+mat123 mat122
+fis130 fis110
+fis130 mat122
+ili134 iwi131
+ili151 mat112
+mat124 mat113
+mat124 mat123
+fis140 fis120
+fis140 fis130
+ile260 fis120
+ile260 mat124
+ili231 iwi131
+ili252 iwi131
+ili273 ili260
+mat210 mat113
+mat260 iwi131
+mat260 mat113
+mat260 mat123
+ili221 ili134
+ili221 ili231
+ili221 mat260
+ili274 ili273
+ili281 mat260
+mat270 iwi131
+mat270 mat113
+mat270 mat123
+ili238 ili134
+ili242 ili142
+ili275 ili274
+ili355 ili221
+hrw110 hrw150
+ili274 ili273
+ici393 mat210
+ici393 mat260
+ili237 ili231
+ili237 ili252
+ili334 ili238
+ili363 ili273
+hrw100 hrw110
+ici382 ili334
+ili331 ili238
+ili331 ili274
+ili362 ili363
+ili381 ili281
+ili381 mat210
+iln230 iwn170
+ici313 ili331
+ici332 ici393
+ici332 ili331
+ici344 ili243
+icn336 ici393
+ici314 ici313

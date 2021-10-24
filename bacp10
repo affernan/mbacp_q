@@ -1,0 +1,80 @@
+# P
+10
+# C
+dew100 1 26
+fis100 3 22
+hrwxx1 2 35
+iwg101 2 35
+mat021 5 26
+qui010 3 39
+dew101 1 22
+fis110 5 40
+hrwxx2 2 33
+iwi131 3 31
+mat022 5 23
+dewxx0 1 39
+fis120 4 31
+hcw310 1 38
+hrwxx3 2 30
+ili134 4 34
+ili151 3 35
+mat023 4 38
+hcw311 1 32
+ili135 4 26
+ili153 3 39
+ili260 3 22
+iwn261 3 32
+mat024 4 28
+fis130 4 34
+ili239 4 37
+ili245 4 37
+ili253 4 30
+fis140 4 35
+ili236 4 36
+ili243 4 36
+ili270 3 30
+ili280 4 36
+ici344 4 23
+ili263 3 39
+ili332 4 30
+ili355 4 38
+iwn170 3 35
+icdxx1 3 33
+ili362 3 24
+iwn270 3 39
+icdxx2 3 38
+# R #
+dew101 dew100
+fis110 fis100
+fis110 mat021
+mat022 mat021
+dewxx0 dew101
+fis120 fis110
+fis120 mat022
+ili134 iwi131
+ili151 iwi131
+mat023 mat022
+hcw311 hcw310
+ili135 ili134
+ili153 ili134
+ili153 ili151
+mat024 mat023
+fis130 fis110
+fis130 mat022
+ili239 ili135
+ili245 ili153
+ili253 ili153
+fis140 fis120
+fis140 fis130
+ili236 ili239
+ili243 ili245
+ili270 ili260
+ili270 iwn261
+ili280 mat024
+ici344 ili243
+ili263 ili260
+ili263 iwn261
+ili332 ili236
+ili355 ili153
+ili355 ili280
+ili362 ili263
