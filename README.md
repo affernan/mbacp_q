@@ -90,3 +90,8 @@ No automated tests are defined. Recommended manual verification is to parse one 
 ## Secret Handling
 
 The repository contains benchmark curriculum data only and should not store private student records or credentials.
+
+## Errata (2026-11)
+
+- `mbacp123.txt`: the header listed `bacp8_1`, `bacp10_2`, `bacp12_2`, but the quotas, the `Total:118`/`Shared:25` counts and the instance description (46, 42 and 66 courses) correspond to `bacp8`, `bacp10` and `bacp12`. The header now lists `bacp8`, `bacp10`, `bacp12`.
+- `mbacp_3_04(8_1x11_1x12_2).txt` was renamed to `mbacp_3_04(8_1x11_1x12_1).txt`: the file has always used `bacp12_1`, and its quotas correspond to that curriculum.

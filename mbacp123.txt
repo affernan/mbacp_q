@@ -1,6 +1,6 @@
-bacp8_1
-bacp10_2
-bacp12_2
+bacp8
+bacp10
+bacp12
 # C (Total:118) (Shared:25) 
 dew100 82
 fis100 114
